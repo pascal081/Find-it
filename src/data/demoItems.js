@@ -1,0 +1,81 @@
+
+export const demoItems = [
+  {
+    id: 'demo-1',
+    title: 'Silver laptop',
+    category: 'Electronics',
+    type: 'lost',
+    location: 'Main Library, North Campus',
+    date: '2026-10-28',
+    description:
+      'A silver 13-inch laptop in a dark grey sleeve. There is a small blue sticker near the trackpad. Last seen around the quiet study area.',
+    image: '/images/laptop.jpg',
+    reporterName: 'Amara Okafor',
+    reporterEmail: 'amara@example.com',
+  },
+  {
+    id: 'demo-2',
+    title: 'Black wireless headphones',
+    category: 'Electronics',
+    type: 'found',
+    location: 'Student Centre, Ground Floor',
+    date: '2026-10-30',
+    description:
+      'Black over-ear wireless headphones found on a chair near the student centre reception. The owner can identify the brand and case.',
+    image: '/images/headphones.jpg',
+    reporterName: 'Daniel James',
+    reporterEmail: 'daniel@example.com',
+  },
+  {
+    id: 'demo-3',
+    title: 'Brown leather wallet',
+    category: 'Wallets',
+    type: 'lost',
+    location: 'Cafeteria, East Wing',
+    date: '2026-10-27',
+    description:
+      'A slim brown leather wallet. It may contain student cards and a few personal cards. Please contact me with a description rather than posting card details.',
+    image: '/images/wallet.jpg',
+    reporterName: 'Chisom Eze',
+    reporterEmail: 'chisom@example.com',
+  },
+  {
+    id: 'demo-4',
+    title: 'Blue school backpack',
+    category: 'Bags & Luggage',
+    type: 'found',
+    location: 'Sports Complex Entrance',
+    date: '2026-10-29',
+    description:
+      'A navy-blue backpack was left beside the benches at the sports complex entrance. A notebook and water bottle are visible inside.',
+    image: '/images/backpack.jpg',
+    reporterName: 'Tobi Adebayo',
+    reporterEmail: 'tobi@example.com',
+  },
+  {
+    id: 'demo-5',
+    title: 'Set of house keys',
+    category: 'Keys',
+    type: 'lost',
+    location: 'Car Park B, near Gate 2',
+    date: '2026-10-26',
+    description:
+      'Three silver keys on a simple round wooden keyring. Possibly dropped while walking from the car park towards the main gate.',
+    image: '/images/keys.jpg',
+    reporterName: 'Ifeoma Nwosu',
+    reporterEmail: 'ifeoma@example.com',
+  },
+  {
+    id: 'demo-6',
+    title: 'Smartphone',
+    category: 'Electronics',
+    type: 'found',
+    location: 'Lecture Theatre 4',
+    date: '2026-10-31',
+    description:
+      'A smartphone in a clear protective case was found under a seat after the afternoon lecture. The screen is locked; owner should identify the device.',
+    image: '/images/phone.jpg',
+    reporterName: 'Michael Bello',
+    reporterEmail: 'michael@example.com',
+  },
+];
